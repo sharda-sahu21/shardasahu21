@@ -1,4 +1,4 @@
-# shardasahu21
-this is my first project
+# JAVASCRIPT PROJECTS
+Projects for intermidiate level
 <br>
 Auther : Sharda Sahu
